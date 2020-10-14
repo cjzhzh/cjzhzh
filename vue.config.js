@@ -2,6 +2,7 @@ module.exports = {
     configureWebpack: {
         
     },
+    outputDir: 'docs',
     pages: {
         index: {
           // page 的入口
